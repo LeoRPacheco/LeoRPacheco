@@ -4,10 +4,10 @@
 - 😄 Pronouns: Ele / Dele
 
 <a href="https://github.com/LeoRPacheco/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeoRPacheco&show_icons=true&theme=dracula" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=LeoRPacheco&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/LeoRPacheco/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRPacheco&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRPacheco&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 <div style="display: inline_block"><br>
